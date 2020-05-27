@@ -1,0 +1,6 @@
+id=make-nelshh
+name=make for Android
+version=v4.3
+versionCode=1
+author=nelshh
+description=A statically built version of the make tool for android (aarch64)
